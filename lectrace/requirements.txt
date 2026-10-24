@@ -1,0 +1,6 @@
+torch
+torchvision
+medmnist==3.0.2
+matplotlib
+lectrace
+numpy

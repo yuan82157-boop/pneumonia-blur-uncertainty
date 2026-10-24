@@ -1,0 +1,12 @@
+{
+  "version": "2",
+  "traces": [
+    {
+      "id": "01_pneumonia",
+      "title": "Confidence and disagreement in pneumonia classification",
+      "path": "traces/01_pneumonia.json",
+      "step_count": 58,
+      "built_at": "2026-10-23T18:09:48.912565+00:00"
+    }
+  ]
+}

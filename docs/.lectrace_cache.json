@@ -1,0 +1,12 @@
+{
+  "01_pneumonia.py": {
+    "hash": "e380be35d991efed9c3e34ae4c6e24826a61d1960f287089d71ddeba192367dc",
+    "index_entry": {
+      "id": "01_pneumonia",
+      "title": "Confidence and disagreement in pneumonia classification",
+      "path": "traces/01_pneumonia.json",
+      "step_count": 58,
+      "built_at": "2026-10-23T18:09:48.912565+00:00"
+    }
+  }
+}
